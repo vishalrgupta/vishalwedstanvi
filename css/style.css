@@ -1413,7 +1413,7 @@ select.form-control:not([size]):not([multiple]) {
 /* 24 Responsive
 ==================================================== */
 
-@media screen and (max-width: 576px){
+@media screen and (max-width: 360px){
 
 	#primary-navbar-box.affix{
 		min-width: 100%;
