@@ -1412,8 +1412,12 @@ select.form-control:not([size]):not([multiple]) {
 
 /* 24 Responsive
 ==================================================== */
+@viewport {
+	width: device-width ;
+	zoom: 1.0 ;
+}
 
-@media screen and (max-width: 360px){
+@media screen and (max-width: 320px){
 
 	#primary-navbar-box.affix{
 		min-width: 100%;
