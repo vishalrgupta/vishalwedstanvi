@@ -175,10 +175,10 @@ $(document).ready(function() {
 	};
 
 	// Set the count up numbers
-	var countup_1 = new CountUp("counter-1", 0, 4500, 0, 2.5, options);
-	var countup_2 = new CountUp("counter-2", 0, 153, 0, 2.5, options);
-	var countup_3 = new CountUp("counter-3", 0, 49, 0, 2.5, options);
-	var countup_4 = new CountUp("counter-4", 0, 978, 0, 2.5, options);	
+	var countup_1 = new CountUp("counter-1", 0, 1500, 0, 2.5, options);
+	var countup_2 = new CountUp("counter-2", 0, 25, 0, 2.5, options);
+	var countup_3 = new CountUp("counter-3", 0, 18, 0, 2.5, options);
+	var countup_4 = new CountUp("counter-4", 0, 50, 0, 2.5, options);	
 	
 	var $CounterStart = $('#countup' );
 
